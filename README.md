@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Russel Mercado</h1>
 <h3 align="center">A Computer Science student at University of the Philippines Manila</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Computer Science major in Statistical Computing** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Russel-L](https://github.com/Russel-L)
 
